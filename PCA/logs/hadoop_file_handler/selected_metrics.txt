@@ -1,0 +1,1 @@
+majflt,minflt,processor,rchar,rss,startstack,stime,utime,vsize,wchar,PAPI_BR_MSP,PAPI_FML_INS,PAPI_L2_TCM,PAPI_TOT_INS,num_file_desc,PAPI_L2_LDM,read_bytes
